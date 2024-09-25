@@ -1,0 +1,131 @@
+{
+  "houses": [
+    {
+      "house_id": 1,
+      "user_id": 101,
+      "house_name": "Casa en el centro",
+      "address": "Calle Principal 123",
+      "house_type": "house",
+      "house_modality": "rental",
+      "price": 1200.00,
+      "size": 120.00,
+      "description": "Hermosa casa cerca del centro, perfecta para familias.",
+      "publication_date": "2023-09-15",
+      "stars_calification": 5,
+      "status_landlord": "no request",
+      "foto": "https://example.com/images/house1.jpg",
+      "video": "https://example.com/videos/house1.mp4",
+      "verifications_verification_id": 1
+    },
+    {
+      "house_id": 2,
+      "user_id": 102,
+      "house_name": "Apartamento moderno",
+      "address": "Avenida Secundaria 456",
+      "house_type": "apartment",
+      "house_modality": "sale",
+      "price": 85000.00,
+      "size": 85.00,
+      "description": "Apartamento moderno y cómodo, excelente ubicación.",
+      "publication_date": "2023-09-20",
+      "stars_calification": 4,
+      "status_landlord": "no request",
+      "foto": "https://example.com/images/apartment1.jpg",
+      "video": "",
+      "verifications_verification_id": 2
+    },
+    {
+      "house_id": 3,
+      "user_id": 103,
+      "house_name": "Casa con jardín",
+      "address": "Calle Jardín 789",
+      "house_type": "house",
+      "house_modality": "rental",
+      "price": 1500.00,
+      "size": 140.00,
+      "description": "Casa con amplio jardín, perfecta para relajarse.",
+      "publication_date": "2023-08-10",
+      "stars_calification": 5,
+      "status_landlord": "no request",
+      "foto": "https://example.com/images/house2.jpg",
+      "video": "",
+      "verifications_verification_id": 3
+    },
+    {
+      "house_id": 4,
+      "user_id": 104,
+      "house_name": "Apartamento cerca del parque",
+      "address": "Calle del Parque 321",
+      "house_type": "apartment",
+      "house_modality": "rental",
+      "price": 1000.00,
+      "size": 90.00,
+      "description": "Apartamento con vista al parque, muy tranquilo.",
+      "publication_date": "2023-07-25",
+      "stars_calification": 4,
+      "status_landlord": "no request",
+      "foto": "https://example.com/images/apartment2.jpg",
+      "video": "",
+      "verifications_verification_id": 4
+    },
+    {
+      "house_id": 5,
+      "user_id": 105,
+      "house_name": "Casa familiar",
+      "address": "Calle Familiar 654",
+      "house_type": "house",
+      "house_modality": "sale",
+      "price": 95000.00,
+      "size": 160.00,
+      "description": "Casa ideal para una familia grande, con patio y garage.",
+      "publication_date": "2023-06-15",
+      "stars_calification": 5,
+      "status_landlord": "no request",
+      "foto": "https://example.com/images/house3.jpg",
+      "video": "https://example.com/videos/house3.mp4",
+      "verifications_verification_id": 5
+    }
+  ],
+  "feedbacks": [
+    {
+      "rating_id": 201,
+      "rated_user_id": 101,
+      "rating_user_id": 301,
+      "score": 5,
+      "comments": "Excelente casa, muy cómoda y bien ubicada.",
+      "rating_date": "2023-09-25"
+    },
+    {
+      "rating_id": 202,
+      "rated_user_id": 102,
+      "rating_user_id": 302,
+      "score": 4,
+      "comments": "El apartamento está bien, pero el precio es un poco alto.",
+      "rating_date": "2023-09-26"
+    },
+    {
+      "rating_id": 203,
+      "rated_user_id": 103,
+      "rating_user_id": 303,
+      "score": 5,
+      "comments": "El jardín es hermoso, ideal para la familia.",
+      "rating_date": "2023-09-15"
+    },
+    {
+      "rating_id": 204,
+      "rated_user_id": 104,
+      "rating_user_id": 304,
+      "score": 4,
+      "comments": "Bonita vista al parque, pero los vecinos son un poco ruidosos.",
+      "rating_date": "2023-09-10"
+    },
+    {
+      "rating_id": 205,
+      "rated_user_id": 105,
+      "rating_user_id": 305,
+      "score": 5,
+      "comments": "Casa muy espaciosa y cómoda para una familia grande.",
+      "rating_date": "2023-09-05"
+    }
+  ]
+}
