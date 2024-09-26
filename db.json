@@ -1,11 +1,8 @@
 {
   "feedbacks": [
     {
-      "house_id": 1,
-      "user_id": 101,
       "house_name": "Casa en el centro",
       "address": "Calle Principal 123",
-      "photo": "https://example.com/images/house1.jpg",
       "rating_id": 201,
       "rated_user_id": 101,
       "rating_user_id": 301,
@@ -14,11 +11,8 @@
       "rating_date": "2023-09-25"
     },
     {
-      "house_id": 2,
-      "user_id": 102,
       "house_name": "Apartamento moderno",
       "address": "Avenida Secundaria 456",
-      "photo": "https://example.com/images/apartment1.jpg",
       "rating_id": 202,
       "rated_user_id": 102,
       "rating_user_id": 302,
@@ -27,11 +21,8 @@
       "rating_date": "2023-09-26"
     },
     {
-      "house_id": 3,
-      "user_id": 103,
       "house_name": "Casa con jardín",
       "address": "Calle Jardín 789",
-      "photo": "https://example.com/images/house2.jpg",
       "rating_id": 203,
       "rated_user_id": 103,
       "rating_user_id": 303,
@@ -40,11 +31,8 @@
       "rating_date": "2023-09-15"
     },
     {
-      "house_id": 4,
-      "user_id": 104,
       "house_name": "Apartamento cerca del parque",
       "address": "Calle del Parque 321",
-      "photo": "https://example.com/images/apartment2.jpg",
       "rating_id": 204,
       "rated_user_id": 104,
       "rating_user_id": 304,
@@ -53,11 +41,8 @@
       "rating_date": "2023-09-10"
     },
     {
-      "house_id": 5,
-      "user_id": 105,
       "house_name": "Casa familiar",
       "address": "Calle Familiar 654",
-      "photo": "https://example.com/images/house3.jpg",
       "rating_id": 205,
       "rated_user_id": 105,
       "rating_user_id": 305,
